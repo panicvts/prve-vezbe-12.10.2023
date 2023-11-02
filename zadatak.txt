@@ -1,0 +1,3 @@
+Div sa klasom box 1 ima pozadinsku boju crimson, ima ivicu debljine 1px solid i plave je boje. Klase naslov i naslov 2 imaju font-size 27px.
+Paragrafi u klasi box1 imaju border 1px solid black, unutrasnji razmak 15px, zakrivljenu ivicu za 10px i pozadinska boja im je gold.
+Div sa klasom box2 ima boju #d6dfda i padding 40px. Paragrafi u klasi box2 su podebljani i obojeni su #346046 bojom.

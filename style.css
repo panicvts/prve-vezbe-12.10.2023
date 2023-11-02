@@ -1,0 +1,48 @@
+/* h3{
+    color: red;
+    color: #C83718; 
+    color: rgb(60, 179, 113);
+}
+ */
+
+/* .container{
+    height: 300px;
+    width: 300px;
+    background-color: #EFC050;
+    border: 2px solid #507FEF;
+    margin-left: 200px;
+    margin-top: 200px;
+} */
+
+/* .container{
+    width: 400px;
+    height: 250px;
+    background-color: beige;
+    border: 2px solid orange;
+    padding: 40px;
+}
+
+p{
+    border: 1px solid black;
+    background-color: cadetblue;
+    color: white;
+    padding: 20px;
+} */
+
+h1{
+    color: red;
+    font-size: 27px;
+}
+
+p{
+    color: gold;
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+a{
+    color: salmon;
+}
+
+
